@@ -11,7 +11,7 @@ run the script giving those two tcx file as parameters. The output .tcx
 file is then the Garmin file augmented with the power and torque numbers
 from the Powertap file.
 
-Like so:
+Like so (the powertap file goes first):
 
   python munger.py ../Documents/2013-06-23\ 13-54-40.tcx ../Documents/6-23-13\ 1-54-47\ PM.tcx
 
